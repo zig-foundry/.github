@@ -8,7 +8,7 @@ We build focused, fast tools for writing Zig. Zig is evolving quickly, but devel
 
 ## Projects
 
-* **[zig-analyzer](https://github.com/zig-foundry/zig-analyzer) soon**  
+* **[zig-analyzer](https://github.com/zig-foundry/zig-analyzer)**  
   A language server protocol (LSP) implementation for Zig. It provides code completion, diagnostics, and navigation for modern text editors, while keeping memory usage low and response times fast.
 
 * **[zgrep](https://github.com/zig-foundry/zgrep) soon**  
